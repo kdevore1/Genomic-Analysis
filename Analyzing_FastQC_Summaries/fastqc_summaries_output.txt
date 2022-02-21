@@ -1,0 +1,20 @@
+FILES THAT FAILED A QC TEST
+SRR2584863_2.fastq.gz
+SRR2584866_1.fastq.gz
+SRR2584866_2.fastq.gz
+SRR2589044_1.fastq.gz
+SRR2589044_2.fastq.gz
+The only file that did not fail a test is SRR2584863_1.fastq
+TEST FAILED, FILE NAME
+Per base sequence quality SRR2584863_2.fastq.gz
+Per tile sequence quality SRR2584863_2.fastq.gz
+Per base sequence content SRR2584863_2.fastq.gz
+Per base sequence quality SRR2584866_1.fastq.gz
+Per base sequence content SRR2584866_1.fastq.gz
+Adapter Content SRR2584866_1.fastq.gz
+Adapter Content SRR2584866_2.fastq.gz
+Adapter Content SRR2589044_1.fastq.gz
+Per base sequence quality SRR2589044_2.fastq.gz
+Per tile sequence quality SRR2589044_2.fastq.gz
+Per base sequence content SRR2589044_2.fastq.gz
+Adapter Content SRR2589044_2.fastq.gz
